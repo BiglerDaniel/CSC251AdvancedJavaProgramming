@@ -1,0 +1,5 @@
+how many days can you miss in a class?
+loop
+multiple classes
+validate that it is a number input
+"Out of this many days you can miss this many days" 
